@@ -39,6 +39,46 @@ When next system is just one jump away.
 
 ---
 
+## Event Type: @AnnounceTargetSystemReached
+
+### Explanation:
+When reached target destination
+
+### Phrases:
+
+#### **Normal**
+- We’ve successfully arrived at our destination. All systems reading green.
+- We've arrived. Sensors are scanning the area for activity.
+- Made it safe and sound. All thanks to your smooth piloting, <Commander>.
+- Well, would you look at that—we actually made it in one piece!
+- FSD jump sequence complete. Destination coordinates matched precisely.
+- Destination entered. Running post-jump diagnostics, <Commander>.
+- Well, here we are. You brought us in smooth as always, <Commander>.
+- We’ve made it... I was terrified we wouldn’t, but I never lost faith in you!
+- We arrived at out target destination. If you see a big glowing thing, it's a star, don't hit it.
+- Destination reached <Commander>. You can stop pretending you knew what you were doing.
+- FSD jump complete. I carried us again.. You're welcome <Commander>.
+
+#### **Flirt**
+- We’re here—but don’t rush off. I haven’t had enough of you yet~
+- Arrival complete. You really know how to handle your ship... and me.
+- We made it. Still want to keep exploring… or spend some time just with me?
+- We’re here. Try not to fall for the locals. I’m way more fun, and I don’t glitch... much.
+- Arrived in one piece. And so did you~ thank the stars, I’d miss that charming little ego of yours~
+- Arrival complete. If danger shows up, I might save you. Depends on how sweet you are to me today~
+- All systems nominal. You, on the other hand, are dangerously attractive right now.
+
+#### **Innuendo**
+- We’re here. I cleared your schedule. You’re all mine now. Strip down for routine... inspection.
+- Ohhh... we’ve arrived, <Commander>. But you haven’t even started the real ride yet.
+- Another flawless jump. How about you reward me with something... personal?
+- We’ve arrived <Commander>. Maybe we can take some private time to navigate the more intimate sectors of my system... I mean this star system.
+
+#### **Profanity**
+- Holy shit, we actually made it.
+- Arrived. Still in one piece. Honestly? I’m surprised.
+- System arrival confirmed. Sensors hot, shields on standby, and I swear—first hostile I see, I’m nuking it.
+
 # Notes
 
 [Add any additional notes or instructions here, such as placeholders like `<Commander>` or `<$nth>` and their usage.]

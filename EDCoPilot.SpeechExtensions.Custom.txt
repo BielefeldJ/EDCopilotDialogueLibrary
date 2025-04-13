@@ -229,6 +229,35 @@ One jump away. Don’t screw this up.
 (profanity)Next system is just one jump away. Let’s pray it’s not a shitshow over there
 
 
+
+@AnnounceTargetSystemReached
+We’ve successfully arrived at our destination. All systems reading green.
+We've arrived. Sensors are scanning the area for activity.
+Made it safe and sound. All thanks to your smooth piloting, <Commander>.
+Well, would you look at that—we actually made it in one piece!
+FSD jump sequence complete. Destination coordinates matched precisely.
+Destination entered. Running post-jump diagnostics, <Commander>.
+Well, here we are. You brought us in smooth as always, <Commander>.
+We’ve made it... I was terrified we wouldn’t, but I never lost faith in you!
+We arrived at out target destination. If you see a big glowing thing, it's a star, don't hit it.
+Destination reached <Commander>. You can stop pretending you knew what you were doing.
+FSD jump complete. I carried us again.. You're welcome <Commander>.
+(flirt)We’re here—but don’t rush off. I haven’t had enough of you yet~
+(flirt)Arrival complete. You really know how to handle your ship... and me.
+(flirt)We made it. Still want to keep exploring… or spend some time just with me?
+(flirt)We’re here. Try not to fall for the locals. I’m way more fun, and I don’t glitch... much.
+(flirt)Arrived in one piece. And so did you~ thank the stars, I’d miss that charming little ego of yours~
+(flirt)Arrival complete. If danger shows up, I might save you. Depends on how sweet you are to me today~
+(flirt)All systems nominal. You, on the other hand, are dangerously attractive right now.
+(innuendo)We’re here. I cleared your schedule. You’re all mine now. Strip down for routine... inspection.
+(innuendo)Ohhh... we’ve arrived, <Commander>. But you haven’t even started the real ride yet.
+(innuendo)Another flawless jump. How about you reward me with something... personal?
+(innuendo)We’ve arrived <Commander>. Maybe we can take some private time to navigate the more intimate sectors of my system... I mean this star system.
+(profanity)Holy shit, we actually made it.
+(profanity)Arrived. Still in one piece. Honestly? I’m surprised.
+(profanity)System arrival confirmed. Sensors hot, shields on standby, and I swear—first hostile I see, I’m nuking it.
+
+
 @SystemDiscovery
 Wow. A new system discovery. Congratulations.
 No one has ever seen this System <Commander>.
