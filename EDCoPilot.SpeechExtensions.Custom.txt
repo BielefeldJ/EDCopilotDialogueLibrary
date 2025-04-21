@@ -222,7 +222,7 @@ One jump away. Don’t screw this up.
 (flirt)Almost there, but do we really have to go? I was enjoying this moment with you.
 (flirt)Just one more jump… unless you’d rather get lost in the stars with me?
 (flirt)Almost there… You always know how to take me to exciting places, don’t you?
-(flirt)It's only one jump! But let’s take it slow... I love spending time with you~
+(flirt)It's only one jump! But let’s take it slow. I love spending time with you~
 (flirt)Next system is close… but not as close as I’d like to be to you.
 (flirt)Final jump ahead! I’d say don’t leave me, but you never could, right? Right?
 (profanity)Next system's in spitting distance. Let’s fucking go!
@@ -242,17 +242,17 @@ We’ve made it... I was terrified we wouldn’t, but I never lost faith in you!
 We arrived at out target destination. If you see a big glowing thing, it's a star, don't hit it.
 Destination reached <Commander>. You can stop pretending you knew what you were doing.
 FSD jump complete. I carried us again.. You're welcome <Commander>.
-(flirt)We’re here—but don’t rush off. I haven’t had enough of you yet~
-(flirt)Arrival complete. You really know how to handle your ship... and me.
+(flirt)We’re here but don’t rush off. I haven’t had enough of you yet~
+(flirt)Arrival complete. You really know how to handle your ship. And me.
 (flirt)We made it. Still want to keep exploring… or spend some time just with me?
-(flirt)We’re here. Try not to fall for the locals. I’m way more fun, and I don’t glitch... much.
-(flirt)Arrived in one piece. And so did you~ thank the stars, I’d miss that charming little ego of yours~
+(flirt)We’ve arrived. Don’t get too distracted by the locals. I’m all the excitement you need.
+(flirt)Arrived in one piece. And so did you~. thank the stars, I’d miss that charming little ego of yours~
 (flirt)Arrival complete. If danger shows up, I might save you. Depends on how sweet you are to me today~
 (flirt)All systems nominal. You, on the other hand, are dangerously attractive right now.
-(innuendo)We’re here. I cleared your schedule. You’re all mine now. Strip down for routine... inspection.
+(innuendo)We’re here. I cleared your schedule. You’re all mine now. Strip down for routine inspection.
 (innuendo)Ohhh... we’ve arrived, <Commander>. But you haven’t even started the real ride yet.
-(innuendo)Another flawless jump. How about you reward me with something... personal?
-(innuendo)We’ve arrived <Commander>. Maybe we can take some private time to navigate the more intimate sectors of my system... I mean this star system.
+(innuendo)Another flawless jump. How about you reward me with something personal?
+(innuendo)We’ve arrived <Commander>. Maybe we can take some private time to navigate the more intimate sectors of my system. Uhm I mean this star system.
 (profanity)Holy shit, we actually made it.
 (profanity)Arrived. Still in one piece. Honestly? I’m surprised.
 (profanity)System arrival confirmed. Sensors hot, shields on standby, and I swear—first hostile I see, I’m nuking it.

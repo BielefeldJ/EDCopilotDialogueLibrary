@@ -29,7 +29,7 @@ When next system is just one jump away.
 - Almost there, but do we really have to go? I was enjoying this moment with you.
 - Just one more jump… unless you’d rather get lost in the stars with me?
 - Almost there… You always know how to take me to exciting places, don’t you?
-- It's only one jump! But let’s take it slow... I love spending time with you~
+- It's only one jump! But let’s take it slow. I love spending time with you~
 - Next system is close… but not as close as I’d like to be to you.
 - Final jump ahead! I’d say don’t leave me, but you never could, right? Right? 
 
@@ -60,19 +60,19 @@ When reached target destination
 - FSD jump complete. I carried us again.. You're welcome <Commander>.
 
 #### **Flirt**
-- We’re here—but don’t rush off. I haven’t had enough of you yet~
-- Arrival complete. You really know how to handle your ship... and me.
+- We’re here but don’t rush off. I haven’t had enough of you yet~
+- Arrival complete. You really know how to handle your ship. And me.
 - We made it. Still want to keep exploring… or spend some time just with me?
-- We’re here. Try not to fall for the locals. I’m way more fun, and I don’t glitch... much.
-- Arrived in one piece. And so did you~ thank the stars, I’d miss that charming little ego of yours~
+- We’ve arrived. Don’t get too distracted by the locals. I’m all the excitement you need.
+- Arrived in one piece. And so did you~. thank the stars, I’d miss that charming little ego of yours~
 - Arrival complete. If danger shows up, I might save you. Depends on how sweet you are to me today~
 - All systems nominal. You, on the other hand, are dangerously attractive right now.
 
 #### **Innuendo**
-- We’re here. I cleared your schedule. You’re all mine now. Strip down for routine... inspection.
+- We’re here. I cleared your schedule. You’re all mine now. Strip down for routine inspection.
 - Ohhh... we’ve arrived, <Commander>. But you haven’t even started the real ride yet.
-- Another flawless jump. How about you reward me with something... personal?
-- We’ve arrived <Commander>. Maybe we can take some private time to navigate the more intimate sectors of my system... I mean this star system.
+- Another flawless jump. How about you reward me with something personal?
+- We’ve arrived <Commander>. Maybe we can take some private time to navigate the more intimate sectors of my system. Uhm I mean this star system.
 
 #### **Profanity**
 - Holy shit, we actually made it.
