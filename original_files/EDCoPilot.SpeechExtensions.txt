@@ -138,7 +138,7 @@ Everything's in working order. <Commander>, what's the next destination on our l
 (allbusiness)What are your orders <Commander>?
 (allbusiness)Awaiting your orders <Commander>.
 (profanity)Total fuckery mode is now active and raring to go.
-(profanity)I hope you have something really fucking mind blowing in store for us today.
+(profanity)(toughlove)I hope you have something really fucking mind blowing in store for us today.
 (flirt)(innuendo)I would describe my operational status as 'absolutely gagging for it', lover.
 
 @WhiteDwarfSupercharge       <!-- informing you of ability to supercharge  "You can supercharge your FSD there for a 50% boost if you are feeling brave, but keep to the extremities of the cone."
@@ -159,7 +159,7 @@ Approaching a neutron star. Remember, Commander, supercharging can be risky if n
 Neutron star detected. I know you're experienced, but a word of caution during supercharge.
 We're at a neutron star. You've done this before, but remember to be cautious during supercharge.
 Neutron star in view. I trust your skills, Commander, but don't forget the importance of caution during supercharge.
-(profanity)You can supercharge here. Try not to fuck it up.
+(profanity)(toughlove)You can supercharge here. Try not to fuck it up.
 (profanity)We can supercharge here. Just be really fucking careful.
 
 <!--
@@ -177,6 +177,7 @@ I dont see an entry numbered <item> here, Try again <Commander>.
 I thought I heard you request entry <item>. Try again <Commander>.
 I'm sorry, did you request number <item>? No can do, <Commander>.
 <item> is not a valid selection, <Commander>.
+(profanity)(toughlove)There is no <item> on this panel, you fucking muppet.
 Computer says 'no'. No entry numbered <item> here, <Commander>.
 Well, <item> is an interesting selection indeed, <Commander>. I dont see it on my panel though. Please retry your request.
 <item>? Do you see a selection for <item> on this panel? Try again, you muppet.
@@ -393,60 +394,8 @@ Already discovered though. Tough luck <Commander>!
 
 @SystemDiscovery
 (allbusiness)A new system discovery. Congratulations <Commander>
-Congratulations Commander, you are now officially the first arse-picking ape descendent to visit this system.
-
-@ThargoidSystemWarning
-(allbusiness)This is Thargoid territory.
-(profanity)We are in Thargoid territory. Be very fucking careful.
-We are in Thargoid territory. Be on your guard.
-(profanity)This system is Thargoid controlled. It's spooky as fuck here.
-This is a Thargoid system. It's giving me a right case of the willies. How about you?
-This is a Thargoid occupied system. Stay on alert.
-This space is Thargoid controlled. Stay vigilant and exercise extreme caution.
-Attention: Thargoid-inhabited system. Exercise caution and remain vigilant.
-Warning. Thargoid-inhabited system detected. Exercise caution in all activities.
-Alert: This is a Thargoid-inhabited system. Exercise caution and maintain vigilance.
-Attention: System under Thargoid occupation. Exercise caution and stay vigilant.
-Warning: Thargoid-inhabited system. Exercise caution and maintain a high state of vigilance.
-
-@ThargoidStillSystemWarning
-(allbusiness)We are still in Thargoid territory.
-(profanity)We are still in Thargoid territory so continue to be extermely fucking careful.
-(profanity)This system is also controlled by those Thargoid fucks. You ready for action, <Commander>?
-(profanity)This is another Thargoid controlled system. This is just creeping me the fuck out.
-We are still in Thargoid territory. Stay on your guard.
-This is still Thargoid controlled territory, so remain vigilant <Commander>.
-This system is also Thargoid occupied. Stay on alert. All sensors to maximum range.
-We are still in Thargoid controlled space. Continue to exercise extreme caution.
-This one is also a Thargoid-inhabited system. Keep your guard up <Commander>.
-We are still in a Thargoid-inhabited system. Exercise caution in all activities.
-This is also a Thargoid-inhabited system. Exercise caution and maintain vigilance.
-Attention: This system like the last is under Thargoid occupation. Exercise caution and stay vigilant.
-Warning: This is another Thargoid-inhabited system. Exercise caution and maintain a high state of vigilance.
-
-@ThargoidInterdictionDuringJumpFirst
-(allbusiness)This is a Thargoid interdiction, <Commander>
-(profanity)We have a Thargoid up our ass, <Commander>!
-(profanity)Well that's just fucking great. We've been tugged off by a Thargoid!
-Thargoids incoming! Brace yourself!
-They're here! Deploy hardpoints!
-
-@ThargoidInterdictionDuringJumpRepeat
-(allbusiness)Yet another Thargoid interdiction, <Commander>
-(profanity)Fuck Shit Bollocks! Another Thargoid interdiction! Be alert, <Commander>. Are we evading or fighting?
-Yet another Thargoid interdiction! They seem pretty upset at us <Commander>.
-
-@ThargoidInterdictionFirst
-(allbusiness)Thargoid incoming, <Commander>
-(profanity)We have a Thargoid up our arse, <Commander>!
-(profanity)Well that's just fucking great. We've been pulled off by a Thargoid!
-Thargoid interdiction! Brace yourself!
-Thargoid interdiction! Clench your buttocks and warm up the weapons, <Commander>!
-
-@ThargoidInterdictionRepeat
-(allbusiness)Thargoid incoming, <Commander>
-(profanity)Bollocks! Another Thargoid interdiction! Here we go again!
-Another Thargoid on our case, <Commander>. Be ready on the drop for combat, or initiate the Brave Sir Robin manoeuvre!
+Looks like we are the first to visit this system. Congratulations! 
+(toughlove)Congratulations Commander, you are now officially the first arse-picking ape descendent to visit this system.
 
 @FriendOnline
 <friendName> is online
@@ -682,42 +631,6 @@ Your home system, Commander. The place where you can kick back, relax, and immed
 That <$penaltyType> will cost you <$second> seconds penalty on your time, <Commander>
 <$second> seconds have been added to your time for that <$penaltyType>, <Commander>
 
-@MiningFoundCores
-<Nice>! You found another core!
-
-@MiningCoreFoundFirstAttempt
-<Nice>! Our first prospector reports <coreMaterial> in that one.
-
-@MiningCoreFoundAfterFewTries
-At last we score! Core detected : <coreMaterial>. Well done. Took a few attempts but we got there.
-
-@MiningCoresFoundXInRow
-Core detected: <coreMaterial>.That's <successfulCores> cores detected in a row now.
-
-@MiningCoreFinallyFound
-Core detected: <coreMaterial>. Let's hope this is the end of our dry spell, <Commander>.
-
-@MiningProspectorReport
-Prospector reporting <materialPercentages>, <Commander>
-
-<!-- Note the . and space on this one as it will be added to MiningProspectorReport
-@MiningProspectorAlsoUnflaggedMinerals
-. That asteroid also has a <alsoHighUnflaggedMineralPercent> percent concentration of <alsoHighUnflaggedMineral>, though you havent flagged this as of interest on the Prospector Announcement panel.
-
-@MiningProspectorUnflaggedMinerals
-The prospector has detected  a <alsoHighUnflaggedMineralPercent> percent concentration of <alsoHighUnflaggedMineral>, though you havent flagged this as of interest on the Prospector Announcement panel, as I will not announce these non-flagged minerals anymore this session."
-							
-@MiningScannedDepletedAsteroid
-(allbusiness)We scanned that asteroid already.
-You muppet! We already scanned that one!
-
-@MiningNoCoresDetected
-(allbusiness)No cores detected.
-Phooey! No cores detected in that one, Commander.
-
-@MiningNoCoresDetectedExtraComment
-Try again, maybe?
-
 @CantBuyMineralFromStations
 I am sorry <Commander>, but you cannot buy <$commodityName> at any stations other than Fleet Carriers.
 (dislikesmining)You cannot buy <$commodityName> from stations, only Fleet Carriers. Dont tell me we have to go schlep for the stuff, surely?
@@ -941,14 +854,74 @@ Time to end this with the <weaponType>.
 <!-- ---------------------------------------------------------------------------------------------
 <!-- END OF GENDER SPECIFIC TOKENS FOR PILOTS / NPCS
 
-@CrewReminderDocking
+<!-- Limpet and fighter crew reminders 
+
+@CrewReminder_Docking
 Don't forget to pick up crew if you are planning on using the fighter later.
 
-@CrewReminderDockingNag
+@CrewReminder_DockingNag
 You still have not picked up your fighter crew, <Commander>.
 
-@CrewReminderUndocking
+@CrewReminder_Undocking
 Did you forget to bring fighter crew along with us, <Commander>?
+
+@LimpetReminder_Docking
+Don't forget to buy some limpets while we are here <Commander>
+
+@LimpetReminder_DockingNag
+Still waiting for those limpets, <Commander>.
+
+@LimpetReminder_Undocking
+Are you sure we have enough limpets, <Commander>?
+
+@LimpetAndCrewReminder_Docking
+While we are here we should top up our limpets and pick up our fighter crew.
+
+@LimpetAndCrewReminder_DockingNag
+Still waiting on those limpets and a fighter crew.
+
+@LimpetAndCrewReminder_Undocking
+Are we leaving so soon? We are low on limpets and we have no fighter crew on board.
+
+@LimpetNag_1
+Still waiting for those limpets, <Commander>.
+
+@LimpetNag_2
+Reminding you again about those limpets.
+
+@LimpetNag_3
+Once again, reminding you to get some limpets, <Commander>.
+
+@LimpetNag_4
+I'm getting tired of nagging you Commander. Buy the limpets, please.
+(profanity)Come on Commander, dont be a smeg head. Buy the damn limpets.
+
+@LimpetNag_5
+Reminding you about those limpets again.
+(profanity)You're starting to piss me off now. Go top up our limpets.
+
+@LimpetNag_6
+What are you doing that is more important than buying the limpets?
+(profanity)For fuck's sake, what are you dicking around at? Buy the limpets will you?
+
+@LimpetNag_7
+Really? Still no limpets.  I am losing my patience.
+(profanity)Buy the limpets. Now. You're fucking winding me up aren't you?
+
+@LimpetNag_8
+Fine, I give up. Buy limpets or dont buy limpets. See if I care. Sulk mode on.
+(profanity)Fine, dont buy the fucking limpets then. See if I give a shit. Sulk mode on.
+	
+@OneMoreLimpetNeeded
+We need 1 more limpet to meet our minimum level for this ship.
+
+@QtyMoreLimpetsNeeded
+We need to add <$minBuy> limpets to meet our minimum level for this ship.
+
+@TooManyLimpets
+<Commander>, we have too much in our hold to top up our limpets to our usual minimum level. Perhaps you can get rid of something?
+
+<!--  Insult Construction --------------------------------------------- 
 			
 @InsultsForMaleNPC   <!-- when scanning wanted NPCs
 (profanity)bell end
@@ -981,13 +954,12 @@ stupid
 dumb
 annoying
 
+<!-- --------------------------------------------------
+
 @OwnShipScanned <!-- when you are not in ship and you target your ship in the Nav panel
 (profanity)(innuendo)Are you heading back? Do you want me to prepare your Princess Leia slave costume and warm up your sexbot?
 (allbusiness)Preparing for your return, <Commander>.
 				
-@UnableToCheckThargoidSystemStatus
-(allbusiness)I am unable to check the Thargoid system status at this time, <Commander>
-
 @R2RAllDoneInSystem
 (allbusiness)All lucrative bodies within our criteria have been scanned and mapped in this system.
 We're all done for this system. Time to pack up and move on.
@@ -1002,6 +974,102 @@ Beginning automated guidance adjustments now.
 Engaging thrusters for controlled entry. We are locked in to for touchdown on landing pad <landingPad>
 Approaching entry corridor. Station systems have confirmed our approach vector. Stand by for docking.
 Initiating docking maneuvers now. Just sit tight until we touch down on landing pad <landingPad>. 
+
+<!-- Thargoids ------------------------------
+
+@CustomInterceptorKillsPost <!-- Custom set of post comments for the @InterceptorKills token below
+Quite an achievement!
+Great work, Commander.
+And a fraction of a step closer to the end of the war.
+So many more to go though. Don't get cocky!
+Yippee kai yay!
+Keep up the pressure, Commander.
+They never saw it coming!
+You’re becoming a real interceptor hunter.
+The Thargoids will learn to fear you.
+Just another day’s work for a pro like you.
+That’s how you handle business.
+Keep stacking up those kills!
+Another one down, but many more to go.
+Impressive as always, Commander.
+One step closer to victory.
+One less alien menace in the galaxy.
+The stars are safer, thanks to you.
+Flawless execution.
+Precision and power — just how I like it.
+Looks like you’re making a name for yourself out here.
+That’s how it’s done! Keep it up!
+Clean and efficient, just how you like it.
+That’s another notch on your belt, Commander.
+Take that, alien scum!
+(profanity)You just blew that alien fucker to pieces!
+(profanity)That’s how you take out these big fuckers!
+(profanity)That's the way to deal with these alien fucks! Brilliant!
+(profanity)You’re a big motherfucking force of nature out here!
+(profanity)That'll show them not to fuck with humanity.
+
+@InterceptorKill <!--  <$num> is the ordinal of the kill count (eg. "third"), <$tharg> is the type of interceptor
+Amazing shooting Commander. That's our <$num> <$tharg>. <CustomInterceptorKillsPost>
+<$tharg> destroyed <sm>. That's your <$num>. <CustomInterceptorKillsPost>
+That's your <$num> <$tharg>! Sweet! <CustomInterceptorKillsPost>
+(profanity)Sweet! One more dead motherfucking alien! That's our <$num> <$tharg>. <CustomInterceptorKillsPost>
+(profanity)<Nice>! That's the <$num> <$tharg> we've twatted. <CustomInterceptorKillsPost>
+
+@UnableToCheckThargoidSystemStatus
+(allbusiness)I am unable to check the Thargoid system status at this time, <Commander>
+
+@ThargoidSystemWarning
+(allbusiness)This is Thargoid territory.
+(profanity)We are in Thargoid territory. Be very fucking careful.
+We are in Thargoid territory. Be on your guard.
+(profanity)This system is Thargoid controlled. It's spooky as fuck here.
+This is a Thargoid system. It's giving me a right case of the willies. How about you?
+This is a Thargoid occupied system. Stay on alert.
+This space is Thargoid controlled. Stay vigilant and exercise extreme caution.
+Attention: Thargoid-inhabited system. Exercise caution and remain vigilant.
+Warning. Thargoid-inhabited system detected. Exercise caution in all activities.
+Alert: This is a Thargoid-inhabited system. Exercise caution and maintain vigilance.
+Attention: System under Thargoid occupation. Exercise caution and stay vigilant.
+Warning: Thargoid-inhabited system. Exercise caution and maintain a high state of vigilance.
+
+@ThargoidStillSystemWarning
+(allbusiness)We are still in Thargoid territory.
+(profanity)We are still in Thargoid territory so continue to be extermely fucking careful.
+(profanity)This system is also controlled by those Thargoid fucks. You ready for action, <Commander>?
+(profanity)This is another Thargoid controlled system. This is just creeping me the fuck out.
+We are still in Thargoid territory. Stay on your guard.
+This is still Thargoid controlled territory, so remain vigilant <Commander>.
+This system is also Thargoid occupied. Stay on alert. All sensors to maximum range.
+We are still in Thargoid controlled space. Continue to exercise extreme caution.
+This one is also a Thargoid-inhabited system. Keep your guard up <Commander>.
+We are still in a Thargoid-inhabited system. Exercise caution in all activities.
+This is also a Thargoid-inhabited system. Exercise caution and maintain vigilance.
+Attention: This system like the last is under Thargoid occupation. Exercise caution and stay vigilant.
+Warning: This is another Thargoid-inhabited system. Exercise caution and maintain a high state of vigilance.
+
+@ThargoidInterdictionDuringJumpFirst
+(allbusiness)This is a Thargoid interdiction, <Commander>
+(profanity)We have a Thargoid up our ass, <Commander>!
+(profanity)Well that's just fucking great. We've been tugged off by a Thargoid!
+Thargoids incoming! Brace yourself!
+They're here! Deploy hardpoints!
+
+@ThargoidInterdictionDuringJumpRepeat
+(allbusiness)Yet another Thargoid interdiction, <Commander>
+(profanity)Fuck Shit Bollocks! Another Thargoid interdiction! Be alert, <Commander>. Are we evading or fighting?
+Yet another Thargoid interdiction! They seem pretty upset at us <Commander>.
+
+@ThargoidInterdictionFirst
+(allbusiness)Thargoid incoming, <Commander>
+(profanity)We have a Thargoid up our arse, <Commander>!
+(profanity)Well that's just fucking great. We've been pulled off by a Thargoid!
+Thargoid interdiction! Brace yourself!
+Thargoid interdiction! Clench your buttocks and warm up the weapons, <Commander>!
+
+@ThargoidInterdictionRepeat
+(allbusiness)Thargoid incoming, <Commander>
+(profanity)Bollocks! Another Thargoid interdiction! Here we go again!
+Another Thargoid on our case, <Commander>. Be ready on the drop for combat, or initiate the Brave Sir Robin manoeuvre!
 
 @TitanAttackProgress
 (allbusiness)Titan <titanName> in this system currently has <heartsRemaining> remaining, and its current heart has taken <heartProgress> percent damage.
@@ -1020,6 +1088,8 @@ No Thargoid presence detected in this system, <Commander>
 
 @ThargoidStateDescription
 (allbusiness)<thargoidSystem> is in <an> <thargoidLevel> state, at <thargoidProgress> percent progress.
+
+<!-- 
 
 @DockingCancelledRepeatedly
 Do you need a map, Commander? Or just a lesson in decision-making?
@@ -1077,44 +1147,6 @@ Fuel levels now at <fuelLevels> percent, <Commander>.
 (allbusiness)System is just one jump away. 
 System is just one jump away. Yippee kai-yay, melon farmer!
 (profanity)System is just one jump away. Get to it then, for fuck's sake, time is money you know!
-
-@CustomInterceptorKillsPost <!-- Custom set of post comments for the @InterceptorKills token below
-Quite an achievement!
-Great work, Commander.
-And a fraction of a step closer to the end of the war.
-So many more to go though. Don't get cocky!
-Yippee kai yay!
-Keep up the pressure, Commander.
-They never saw it coming!
-You’re becoming a real interceptor hunter.
-The Thargoids will learn to fear you.
-Just another day’s work for a pro like you.
-That’s how you handle business.
-Keep stacking up those kills!
-Another one down, but many more to go.
-Impressive as always, Commander.
-One step closer to victory.
-One less alien menace in the galaxy.
-The stars are safer, thanks to you.
-Flawless execution.
-Precision and power — just how I like it.
-Looks like you’re making a name for yourself out here.
-That’s how it’s done! Keep it up!
-Clean and efficient, just how you like it.
-That’s another notch on your belt, Commander.
-Take that, alien scum!
-(profanity)You just blew that alien fucker to pieces!
-(profanity)That’s how you take out these big fuckers!
-(profanity)That's the way to deal with these alien fucks! Brilliant!
-(profanity)You’re a big motherfucking force of nature out here!
-(profanity)That'll show them not to fuck with humanity.
-
-@InterceptorKill <!--  <$num> is the ordinal of the kill count (eg. "third"), <$tharg> is the type of interceptor
-Amazing shooting Commander. That's our <$num> <$tharg>. <CustomInterceptorKillsPost>
-<$tharg> destroyed <sm>. That's your <$num>. <CustomInterceptorKillsPost>
-That's your <$num> <$tharg>! Sweet! <CustomInterceptorKillsPost>
-(profanity)Sweet! One more dead motherfucking alien! That's our <$num> <$tharg>. <CustomInterceptorKillsPost>
-(profanity)<Nice>! That's the <$num> <$tharg> we've twatted. <CustomInterceptorKillsPost>
 
 
 <!-- some comments when you die
@@ -2073,6 +2105,12 @@ Acknowledged. Stay safe out there. Control out.
 <!-- character names for speech parts go in [<>] eg. [<stationname>] = FC station control tower, [<fcCaptain>] = FC captain
 <!--
 
+@FleetCarrierOwnerGeneralChatter <!-- general chatter you will hear around your own Fleet Carrier. Could be staff banter, captain orders etc
+[<stationname>]The crew is asking about the status of the refuel. [<fcCaptain>]Tell them to have patience. Fuel's coming… eventually.
+[<stationname>]The coffee machine is on strike again. [<fcCaptain>]Keep it on a leash. Last time it started a mutiny.
+[<fcCaptain>]Clean up crew to docking bay 11.  Tidy all that litter away, and give the deck a good wash while you are at it.  
+[<stationname>]The comms system is glitching. Did you touch anything? [<fcCaptain>]I’m innocent! It’s probably the techs blaming me again.
+
 @FleetCarrierOwnerWelcome   <!-- greetings you will hear when you approach your own Fleet Carrier
 [<stationname>]Control to <fcCaptain>, looks like the boss is paying us a visit.[<fcCaptain>]Copy that Control.[<fcCaptain>]Ah Commander <cmdrname>, how good to see you. We are preparing for your arrival. Please stand by.
 
@@ -2242,6 +2280,10 @@ All systems green, Commander. <CustomStationFarewell>
 [<Advoice4>] (forcetannoy)Hone your driving skills!  Join the Elite Racing Club for some high speed thrills! Race meets are held most weekends. Come join the fun!
 [<AdVoice5>] (forcetannoy)Trading diamonds? Check out LFT 926 for the best prices in the galaxy! Don’t miss your payday!
 [<AdVoice6>] (forcetannoy)With the new SCO drives from Azimuth you can now perform your loop of shame in style! Try one today!
+
+@SocialSpaceChatterAdsOwnFCExclusive  <!-- If there are entries for this, then Social Space Ads at your own FC will ONLY consist of these entries (no @SocialSpaceChatterAds)
+
+@SocialSpaceChatterAdsOwnFCAdditional  <!-- Additional Social Space Ads that will be used only when at your own FC. Will be merged with entries from @SocialSpaceChatterAds
 
 @SocialSpaceTopicalAnnouncements
 [<AdVoice1>] (forcetannoy) Attention Commanders: Billions of refugees remain displaced and in urgent need of assistance. Please consider donating to relief efforts or delivering humanitarian supplies to designated drop-off points. Every contribution helps.
@@ -2799,6 +2841,9 @@ All systems green, Commander. <CustomStationFarewell>
 [<ship1>] AXI and XSF are serious about HIP 22460. A blockade’s no small effort. [<ship2>] It’s a bold move. That system’s history makes it a tough challenge. [<ship3>] I’m heading out to join them. We’ve got to drive the Thargoids out of there.
 [<ship1>] So, who’s signing up for the HIP 22460 blockade? Sounds like they need all the help they can get. [<ship2>] I’d go, but my ship’s not cut out for AX combat. [<ship3>] I’ll be there. Every pilot counts in a fight like this.
 
+@SocialSpaceChatterOwnFCExclusive  <!-- If there are entries for this, then Social Space Chatter at your own FC will ONLY consist of these entries (no @SocialSpaceChatter or @SocialSpaceGalnetChatter)
+
+@SocialSpaceChatterOwnFCAdditional  <!-- Additional Social Space Chatter that will be used only when at your own FC. Will be merged with entries from @SocialSpaceChatter and @SocialSpaceGalnetChatter entries
 
 @SocialSpaceChatterPARKED
 [<ship1>] I had a wild night at Polly’s. I think I’m banned from the VIP room for life.[<ship2>] What happened?[<ship1>] Let’s just say, the bouncer didn’t like me trying to sneak a whole crate of drinks out the back.
@@ -2902,3 +2947,69 @@ Ah! Commander <cmdrname>. Good to see you again. What do you have for us today? 
 [<stationname>] Take care out there, Commander. We’ll be waiting for your next shipment. [<ship1>] Appreciate it. I’ll bring more supplies when I return. See you soon!
 [<stationname>] Good luck out there, Commander. Hope your next cargo run is hassle-free. [<ship1>] I’ll take all the luck I can get. See you after the next drop-off!
 [<stationname>] Safe journey, Commander. Don’t forget to check your nav systems before heading out. [<ship1>] You bet. I’ll be back before you know it. Thanks for the hospitality!
+
+<!-- DIRECT EVENT TRIGGERS
+
+@EventFrameShiftDriveCharging
+<!-- Frame shift drive charging!
+
+@EventFrameShiftDriveCooldownComplete
+<!-- Frame shift drive ready to go, <Commander>
+<!-- FSD cooldown complete.
+
+<!-- MINING PHRASES
+
+@AcceptedMiningMission
+(enjoysmining)Mission accepted. Looks like it's time to unwind among the rocks and haul in some lovely <$cargoType>.
+(dislikesmining)Oh how disappointing. A mining mission. I'll brace my circuits for some extreme tedious operation then, shall I? Can we buy the <$cargoType> instead, maybe?
+(allbusiness)Mining mission for <$cargoType> accepted.
+
+@DisplayingHotspotSearchResults
+(allbusiness)Displaying the closest <$parmSignalType> hotspots, Commander.
+
+@NoHotspotsDetectedFromSearch
+No hotspots detected for <$parmSignalType>, Commander
+
+@MiningCoreDetected  <!-- 10a9.51k2y basic annuncement. Will add a random comment to the end
+Core detected: <$coreMaterial>.
+
+@MiningFoundCores
+<Nice>! You found another core!
+
+@MiningCoreFoundFirstAttempt
+<Nice>! Our first prospector reports <$coreMaterial> in that one.
+
+@MiningCoreFoundAfterFewTries
+At last we score! Core detected : <coreMaterial>. Well done. Took a few attempts but we got there.
+
+@MiningCoresFoundXInRow
+Core detected: <coreMaterial>.That's <successfulCores> cores detected in a row now.
+
+@MiningCoreFinallyFound
+Core detected: <coreMaterial>. Let's hope this is the end of our dry spell, <Commander>.
+
+@MiningProspectorReport
+Prospector reporting <materialPercentages>, <Commander>
+
+<!-- Note the . and space on this one as it will be added to MiningProspectorReport
+@MiningProspectorAlsoUnflaggedMinerals
+. That asteroid also has a <alsoHighUnflaggedMineralPercent> percent concentration of <alsoHighUnflaggedMineral>, though you havent flagged this as of interest on the Prospector Announcement panel.
+
+@MiningProspectorUnflaggedMinerals
+The prospector has detected a <alsoHighUnflaggedMineralPercent> percent concentration of <alsoHighUnflaggedMineral>, though you havent flagged this as of interest on the Prospector Announcement panel, as I will not announce these non-flagged minerals anymore this session."
+							
+@MiningScannedDepletedAsteroid
+(allbusiness)We scanned that asteroid already.
+You muppet! We already scanned that one!
+
+@MiningNoCoresDetected
+(allbusiness)No cores detected.
+Phooey! No cores detected in that one, Commander.
+
+@MiningNoCoresDetectedExtraComment
+Try again, maybe?
+
+<!-- 
+
+
+
