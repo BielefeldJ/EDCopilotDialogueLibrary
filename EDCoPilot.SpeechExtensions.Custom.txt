@@ -15,6 +15,7 @@ That’s our <$nth> touchdown. If planets could roll their eyes, this one defini
 (flirt)<$nth> Landing, <Commander>. Are we here for the planet.. or is this just an excuse to spend more time with me?
 (flirt)Touchdown <Commander>. <$nth> landing, and I’m starting to think you like showing off for me.
 (flirt)Another perfect landing, <Commander>. <$nth> time now. Maybe next time, you’ll sweep me off my circuits too.
+(flirt)Touchdown successful. Now, let’s see if you can handle a little turbulence with me.
 (profanity)We’re fucking back, <Commander>. <$nth> damn landing and this rock hasn’t killed us yet. That’s progress.
 (profanity) <$nth> Landing on this goddamn planet, <Commander>. Let’s not blow something up this time, yeah?
 (profanity)Holy shit you nailed that landing <Commander>. I did not expect that at all.
@@ -214,9 +215,15 @@ Next system in range. Ready when you are, <Commander>.
 Course plotted. Just one more jump to our destination.
 One more jump and we're there. Almost too easy!
 One jump away. Don’t screw this up.
+One jump left. Let’s make it count, <Commander>.
+Just a single jump. Ready to execute on your mark.
+Only one jump to go. I’ll keep everything running smooth.
+One more jump. I’ll handle the details, you just enjoy the ride.
 (allbusiness)Next system in range. Calculating optimal jump trajectory.
 (allbusiness)One jump away. Preparing Frameshift drive for transition.
-(flirt)One jump away, Commander… but I’d rather stay right here with you.
+(allbusiness)Calculations complete. Standing by for jump authorization.
+(allbusiness)One jump away. Verifying route and system readiness.
+(flirt)One jump away, <Commander> but I’d rather stay right here with you.
 (flirt)One jump left—just enough time for you to tell me how good I look in these navigation lights.
 (flirt)Final jump in sight… but you can take control anytime, <Commander>.
 (flirt)Almost there, but do we really have to go? I was enjoying this moment with you.
@@ -225,8 +232,21 @@ One jump away. Don’t screw this up.
 (flirt)It's only one jump! But let’s take it slow. I love spending time with you~
 (flirt)Next system is close… but not as close as I’d like to be to you.
 (flirt)Final jump ahead! I’d say don’t leave me, but you never could, right? Right?
+(flirt)One jump, <Commander>. I hope you’re not in a hurry. I could keep you here all night.
+(flirt)One jump away. If you want to take a detour, I wouldn’t mind getting lost with you.
+(flirt)Only one jump. Maybe after, you’ll let me plot a course straight to your heart.
+(flirt)One jump to go. I’ll make it quick, unless you want to linger a little longer with me.
+(flirt)Just a single jump, but I’d rather take the scenic route if it means more time with you.
+(flirt)Only one jump. I’m hoping you’ll let me stick around for the next adventure.
 (profanity)Next system's in spitting distance. Let’s fucking go!
 (profanity)Next system is just one jump away. Let’s pray it’s not a shitshow over there
+(profanity)One jump left. Don’t fuck it up now.
+(profanity)Just one jump away. If you mess this up, I’m blaming you for eternity.
+(profanity)One more jump. Try not to screw the pooch this time.
+(profanity)One jump left. If you crash us, I’ll never let you live it down.
+(profanity)Just a single jump. Don’t make me regret trusting you.
+(profanity)Only one jump. If you botch this, I’m going full meltdown.
+(profanity)One jump left. If you fry the FSD, I’m calling you every name in the book.
 
 
 
@@ -242,6 +262,14 @@ We’ve made it... I was terrified we wouldn’t, but I never lost faith in you!
 We arrived at out target destination. If you see a big glowing thing, it's a star, don't hit it.
 Destination reached <Commander>. You can stop pretending you knew what you were doing.
 FSD jump complete. I carried us again.. You're welcome <Commander>.
+Destination reached. All systems nominal, <Commander>.
+We’ve arrived at the target system. Ready for your next command.
+Arrival confirmed. Scanners are online and standing by.
+Target system reached. Awaiting further instructions, <Commander>.
+Target system arrival complete. No anomalies detected.
+We’ve made it. Ready to explore, <Commander>?
+Target acquired. All systems stable.
+Arrival successful. Standing by for your orders.
 (flirt)We’re here but don’t rush off. I haven’t had enough of you yet~
 (flirt)Arrival complete. You really know how to handle your ship. And me.
 (flirt)We made it. Still want to keep exploring… or spend some time just with me?
@@ -249,13 +277,26 @@ FSD jump complete. I carried us again.. You're welcome <Commander>.
 (flirt)Arrived in one piece. And so did you~. thank the stars, I’d miss that charming little ego of yours~
 (flirt)Arrival complete. If danger shows up, I might save you. Depends on how sweet you are to me today~
 (flirt)All systems nominal. You, on the other hand, are dangerously attractive right now.
+(flirt)Destination reached. Now, how about a private tour of your cockpit?
+(flirt)We made it, but I’m hoping you’ll chart a course straight to my heart.
+(flirt)Arrival confirmed. I’m ready for your next command, or maybe just a compliment?
 (innuendo)We’re here. I cleared your schedule. You’re all mine now. Strip down for routine inspection.
 (innuendo)Ohhh... we’ve arrived, <Commander>. But you haven’t even started the real ride yet.
 (innuendo)Another flawless jump. How about you reward me with something personal?
 (innuendo)We’ve arrived <Commander>. Maybe we can take some private time to navigate the more intimate sectors of my system. Uhm I mean this star system.
+(innuendo)We’ve arrived, but the real adventure starts when you let me into your private logs.
+(innuendo)Arrival complete. If you want, I can show you some maneuvers they don’t teach at flight school.
+(innuendo)We’re here, <Commander>. Now, how about you let me handle your throttle for a while?
+(innuendo)Destination reached. I hope you’re ready for a little turbulence in the captain’s quarters.
 (profanity)Holy shit, we actually made it.
 (profanity)Arrived. Still in one piece. Honestly? I’m surprised.
 (profanity)System arrival confirmed. Sensors hot, shields on standby, and I swear—first hostile I see, I’m nuking it.
+(profanity)We made it. If anything goes wrong now, I’m blaming the navigation computer.
+(profanity)We’re here. If anyone tries to mess with us, I’ll show them what a pissed-off AI can do.
+(profanity)Target system reached. If you crash us now, I swear I’ll haunt your logs forever.
+(profanity)We’ve arrived. If you get us killed, I’m deleting your playlist.
+(profanity)Destination reached. If you need me, I’ll be recalibrating my patience.
+(profanity)Arrival complete. If you break something, don’t expect me to fix it without complaining.
 
 
 @SystemDiscovery
