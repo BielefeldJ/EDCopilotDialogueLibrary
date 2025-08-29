@@ -104,3 +104,10 @@
 [<stationname>] Noted, <ship1>. Proceed to docking bay 6 for careful unloading.
 [<ship1>] Thanks, Control.
 [\example]
+
+[example]
+[<stationname>] <ship1> this is <stationname> control. Station security is waiting for an explanation about reported drunken behavior last night.
+[<ship1>] Yes, and I'm prepared to give you one, as soon as the room stops spinning.
+[<stationname>] This station creates gravity by rotation. It never stops spinning.
+[<ship1>] Well, you begin to see my problem.
+[\example]
