@@ -17,13 +17,19 @@ When next system is just one jump away.
 - Course plotted. Just one more jump to our destination.
 - One more jump and we're there. Almost too easy!
 - One jump away. Don’t screw this up.
+- One jump left. Let’s make it count, <Commander>.
+- Just a single jump. Ready to execute on your mark.
+- Only one jump to go. I’ll keep everything running smooth.
+- One more jump. I’ll handle the details, you just enjoy the ride.
 
 #### **All-Business**
 - Next system in range. Calculating optimal jump trajectory.
 - One jump away. Preparing Frameshift drive for transition.
+- Calculations complete. Standing by for jump authorization.
+- One jump away. Verifying route and system readiness.
 
 #### **Flirt**
-- One jump away, Commander… but I’d rather stay right here with you.
+- One jump away, <Commander> but I’d rather stay right here with you.
 - One jump left—just enough time for you to tell me how good I look in these navigation lights.
 - Final jump in sight… but you can take control anytime, <Commander>.
 - Almost there, but do we really have to go? I was enjoying this moment with you.
@@ -32,10 +38,23 @@ When next system is just one jump away.
 - It's only one jump! But let’s take it slow. I love spending time with you~
 - Next system is close… but not as close as I’d like to be to you.
 - Final jump ahead! I’d say don’t leave me, but you never could, right? Right? 
+- One jump, <Commander>. I hope you’re not in a hurry. I could keep you here all night.
+- One jump away. If you want to take a detour, I wouldn’t mind getting lost with you.
+- Only one jump. Maybe after, you’ll let me plot a course straight to your heart.
+- One jump to go. I’ll make it quick, unless you want to linger a little longer with me.
+- Just a single jump, but I’d rather take the scenic route if it means more time with you.
+- Only one jump. I’m hoping you’ll let me stick around for the next adventure.
 
 #### **Profanity**
 - Next system's in spitting distance. Let’s fucking go!
 - Next system is just one jump away. Let’s pray it’s not a shitshow over there
+- One jump left. Don’t fuck it up now.
+- Just one jump away. If you mess this up, I’m blaming you for eternity.
+- One more jump. Try not to screw the pooch this time.
+- One jump left. If you crash us, I’ll never let you live it down.
+- Just a single jump. Don’t make me regret trusting you.
+- Only one jump. If you botch this, I’m going full meltdown.
+- One jump left. If you fry the FSD, I’m calling you every name in the book.
 
 ---
 
@@ -58,6 +77,14 @@ When reached target destination
 - We arrived at out target destination. If you see a big glowing thing, it's a star, don't hit it.
 - Destination reached <Commander>. You can stop pretending you knew what you were doing.
 - FSD jump complete. I carried us again.. You're welcome <Commander>.
+- Destination reached. All systems nominal, <Commander>.
+- We’ve arrived at the target system. Ready for your next command.
+- Arrival confirmed. Scanners are online and standing by.
+- Target system reached. Awaiting further instructions, <Commander>.
+- Target system arrival complete. No anomalies detected.
+- We’ve made it. Ready to explore, <Commander>?
+- Target acquired. All systems stable.
+- Arrival successful. Standing by for your orders.
 
 #### **Flirt**
 - We’re here but don’t rush off. I haven’t had enough of you yet~
@@ -67,17 +94,30 @@ When reached target destination
 - Arrived in one piece. And so did you~. thank the stars, I’d miss that charming little ego of yours~
 - Arrival complete. If danger shows up, I might save you. Depends on how sweet you are to me today~
 - All systems nominal. You, on the other hand, are dangerously attractive right now.
+- Destination reached. Now, how about a private tour of your cockpit?
+- We made it, but I’m hoping you’ll chart a course straight to my heart.
+- Arrival confirmed. I’m ready for your next command, or maybe just a compliment?
 
 #### **Innuendo**
 - We’re here. I cleared your schedule. You’re all mine now. Strip down for routine inspection.
 - Ohhh... we’ve arrived, <Commander>. But you haven’t even started the real ride yet.
 - Another flawless jump. How about you reward me with something personal?
 - We’ve arrived <Commander>. Maybe we can take some private time to navigate the more intimate sectors of my system. Uhm I mean this star system.
+- We’ve arrived, but the real adventure starts when you let me into your private logs.
+- Arrival complete. If you want, I can show you some maneuvers they don’t teach at flight school.
+- We’re here, <Commander>. Now, how about you let me handle your throttle for a while?
+- Destination reached. I hope you’re ready for a little turbulence in the captain’s quarters.
 
 #### **Profanity**
 - Holy shit, we actually made it.
 - Arrived. Still in one piece. Honestly? I’m surprised.
 - System arrival confirmed. Sensors hot, shields on standby, and I swear—first hostile I see, I’m nuking it.
+- We made it. If anything goes wrong now, I’m blaming the navigation computer.
+- We’re here. If anyone tries to mess with us, I’ll show them what a pissed-off AI can do.
+- Target system reached. If you crash us now, I swear I’ll haunt your logs forever.
+- We’ve arrived. If you get us killed, I’m deleting your playlist.
+- Destination reached. If you need me, I’ll be recalibrating my patience.
+- Arrival complete. If you break something, don’t expect me to fix it without complaining.
 
 # Notes
 
