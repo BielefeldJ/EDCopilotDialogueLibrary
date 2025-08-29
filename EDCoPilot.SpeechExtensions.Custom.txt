@@ -328,3 +328,35 @@ New system discovered, <Commander>. Time to ruin its pristine reputation by show
 (profanity)Well, fuck me, <Commander>. A new system discovered! Let’s hope it doesn’t suck.
 (profanity)<Commander>, we are the first here. Now let’s try not to piss off whatever lives here.
 (profanity)<Commander>, we have found a new system. Let’s hope it’s worth the goddamn fuel we burned getting here
+
+
+@InterceptorKill
+Amazing shooting Commander. That's our <$num> <$tharg>.
+That's another one down, Commander. Interceptor number <$num> eliminated.
+Impressive work! The <$tharg> didn't stand a chance.
+Well done, Commander. That's our <$num> <$tharg> destroyed.
+Another interceptor neutralized. Excellent job!
+You made that look easy. <$num> <$tharg> down.
+Another one bites the dust. That's <$num> <$tharg> smoked!
+(profanity)Damn, <Commander>! That's our <$num> <$tharg> blasted to hell.
+(profanity)Holy crap, you just wrecked that <$tharg>! That's number <$num> down.
+(profanity)You just kicked that <$tharg>'s ass, <Commander>. <$num> and counting!
+(profanity)Hell yeah! That's our <$num> <$tharg> sent packing.
+(profanity)That <$tharg> never knew what hit it. <$num> down, nice work!
+(profanity)You obliterated that pathetic <$tharg>, <Commander>. <$num> down, who's next?
+(profanity)That interceptor was a joke. <$num> <$tharg> trashed, keep it coming!
+(profanity)You just humiliated that <$tharg>. <$num> kills and counting!
+(profanity)That was embarrassing for the Thargoids. <$num> <$tharg> destroyed, nice flex!
+(profanity)You made that <$tharg> wish it stayed home. <$num> down, savage!
+(profanity)You just sent that <$tharg> back to bug school. <$num> down, Commander!
+(profanity)You crushed that interceptor, <Commander>. <$num> and still counting!
+(profanity)You just made that <$tharg> history. <$num> interceptors destroyed!
+(profanity)That bug never saw it coming. <$num> <$tharg> down, Commander!
+(profanity)You blasted that <$tharg> to smithereens, <Commander>! <$num> down, hell of a shot!
+(profanity)That <$tharg> is toast! <$num> interceptors wrecked, keep the carnage coming!
+(profanity)Damn straight, you annihilated that bug! <$num> <$tharg> vaporized!
+(profanity)You just turned that <$tharg> into space dust, <Commander>. <$num> and rolling!
+(profanity)You just made that <$tharg> cry for its mommy, <Commander>. <$num> down, pathetic!
+(profanity)You obliterated that worthless <$tharg>, <Commander>. <$num> down, what a joke!
+(profanity)Damn, you just schooled that stupid <$tharg>! <$num> and counting, loser bugs!
+(profanity)That <$tharg> didn't deserve to exist. <$num> down, crushed like the insect it is!
