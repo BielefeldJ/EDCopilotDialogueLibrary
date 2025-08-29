@@ -33,6 +33,7 @@ When ever land on a planet.
 - <$nth> Landing, <Commander>. Are we here for the planet.. or is this just an excuse to spend more time with me?
 - Touchdown <Commander>. <$nth> landing, and I’m starting to think you like showing off for me.
 - Another perfect landing, <Commander>. <$nth> time now. Maybe next time, you’ll sweep me off my circuits too.
+- Touchdown successful. Now, let’s see if you can handle a little turbulence with me.
 
 #### **Profanity**
 - We’re fucking back, <Commander>. <$nth> damn landing and this rock hasn’t killed us yet. That’s progress.
