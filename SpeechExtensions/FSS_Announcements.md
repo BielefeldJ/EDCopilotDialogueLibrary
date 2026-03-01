@@ -85,28 +85,24 @@ Discovered Signals on a body. (Biosignal, Human, Geo)
 - I have found <$signal_count_string> on <$bodyShort>.
 - There are <$signal_count_string> on <$bodyShort>.
 - <$signal_count_string> scanned on <$bodyShort>.
-- Whoa! <$bodyShort> is coming in hot with <$signal_count_string>. Did someone call for a planetary surprise?
-- Hold on, <Commander>, <$bodyShort> just sent us <$signal_count_string>. I smell adventure... or maybe just alien snacks?
 - Ka-ching! <$bodyShort> just hit us with <$signal_count_string>.
-- You seeing this, <Commander>? <$bodyShort> has <$signal_count_string>. Time to find out if we can make some cash there.
-- Finished scanning the body. <$bodyShort> is home to <$signal_count_string>. Ready when you are.
+- <$bodyShort> has <$signal_count_string>. Time to find out if we can make some cash there.
+- <$bodyShort> is home to <$signal_count_string>. Ready when you are.
 - <$signal_count_string> detected on <$bodyShort>. Shall we investigate, <Commander>?
 - Detected <$signal_count_string> on <$bodyShort>. What's our next move, <Commander>?
-- <$signal_count_string> detected on <$bodyShort>. Are we taking notes, or just winging it as usual, <Commander>?
 
 #### **All-Business**
 - Scan results show <$signal_count_string> on <$bodyShort>.
 - Update: <$bodyShort> revealed <$signal_count_string>. Standing by for further instructions, <Commander>.
-- Scanning complete. <$bodyShort> has <$signal_count_string>. Logging the data now.
+- Scan complete. <$bodyShort> has <$signal_count_string>. Logging the data now.
 
 #### **Flirt**
 - I detected a good looking commander. Oh.. and <$signal_count_string> on <$bodyShort>.
 - Oh, <Commander>, I found <$signal_count_string> on <$bodyShort>. But honestly, the most exciting discovery here is you.
-- You know, <Commander>, <$bodyShort> might be fascinating with its <$signal_count_string>, but it doesn’t stand a chance against your charm.
 
 #### **Profanity**
 - FFS... I mean FSS shows <$signal_count_string> on <$bodyShort>.
-- No fucking way, <$bodyShort> is rocking <$signal_count_string>. Wanna poke it with a probe?
+- No fucking way, <$bodyShort> is rocking <$signal_count_string>.
 ---
 
 # Notes

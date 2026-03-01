@@ -25,7 +25,7 @@ When ever you jumo into a System that has not been discovered yet.
 - <Commander>, a fresh system! Let’s make sure we don’t break anything important this time.
 - Congratulations, <Commander>. We’ve found another system to add to our growing collection of places with no Wi-Fi.
 - New system discovered <Commander>. Please don’t name it something embarrassing.
-- Hey we’ve hit the cosmic jackpot! Okay, maybe not jackpot, but it’s shiny and new system.
+- Hey we’ve hit the cosmic jackpot! Okay, maybe not jackpot, but it’s a shiny and new system.
 - New system discovered, <Commander>. Time to ruin its pristine reputation by showing up!
 
 #### **All-Business**
