@@ -54,10 +54,10 @@ First-time Codex entry detected: <$speciesName>. Great work, <Commander>. Just d
 
 
 @ExoNewCodexEntryWithValueNewBody
-Well done, <Commander>! This appears to be the first discovery of <$speciesName>. It’s a valuable addition to the Codex, with the first foodfall it is worth <$scanValue> credits if you secure a sample.
-Congratulations, <Commander>. It seems we’ve encountered <$speciesName> for the first time. An entry for the Codex and a potential <$scanValue> credits because of the first foodfall.
-We’ve never logged <$speciesName> before. Add it to the Codex and claim <$scanValue> credits, with first foodfall, for a sample.
-<$speciesName> is a first-time find. Record it in the Codex and collect that, with first foodfall bonus, <$scanValue> credits sample reward.
+Well done, <Commander>! This appears to be the first discovery of <$speciesName>. It’s a valuable addition to the Codex, with the first footfall it is worth <$scanValue> credits if you secure a sample.
+Congratulations, <Commander>. It seems we’ve encountered <$speciesName> for the first time. An entry for the Codex and a potential <$scanValue> credits because of the first footfall.
+We’ve never logged <$speciesName> before. Add it to the Codex and claim <$scanValue> credits, with first footfall, for a sample.
+<$speciesName> is a first-time find. Record it in the Codex and collect that, with first footfall bonus, <$scanValue> credits sample reward.
 It looks like this the first time we stumble across <$speciesName>. Codex entry secured. Now go bag that <$scanValue> credits sample!
 Another first for the Codex, <Commander>! <$speciesName> is all yours. Grab a sample, and you’ll grab <$scanValue> credits too.
 <$speciesName> is a fresh addition to the Codex and worth <$scanValue> credits if you get a sample.
@@ -191,22 +191,18 @@ Atmosphere and landable! <$bodyShort> is another exciting opportunity for explor
 I have found <$signal_count_string> on <$bodyShort>.
 There are <$signal_count_string> on <$bodyShort>.
 <$signal_count_string> scanned on <$bodyShort>.
-Whoa! <$bodyShort> is coming in hot with <$signal_count_string>. Did someone call for a planetary surprise?
-Hold on, <Commander>, <$bodyShort> just sent us <$signal_count_string>. I smell adventure... or maybe just alien snacks?
 Ka-ching! <$bodyShort> just hit us with <$signal_count_string>.
-You seeing this, <Commander>? <$bodyShort> has <$signal_count_string>. Time to find out if we can make some cash there.
-Finished scanning the body. <$bodyShort> is home to <$signal_count_string>. Ready when you are.
+<$bodyShort> has <$signal_count_string>. Time to find out if we can make some cash there.
+<$bodyShort> is home to <$signal_count_string>. Ready when you are.
 <$signal_count_string> detected on <$bodyShort>. Shall we investigate, <Commander>?
 Detected <$signal_count_string> on <$bodyShort>. What's our next move, <Commander>?
-<$signal_count_string> detected on <$bodyShort>. Are we taking notes, or just winging it as usual, <Commander>?
 (allbusiness)Scan results show <$signal_count_string> on <$bodyShort>.
 (allbusiness)Update: <$bodyShort> revealed <$signal_count_string>. Standing by for further instructions, <Commander>.
-(allbusiness)Scanning complete. <$bodyShort> has <$signal_count_string>. Logging the data now.
+(allbusiness)Scan complete. <$bodyShort> has <$signal_count_string>. Logging the data now.
 (flirt)I detected a good looking commander. Oh.. and <$signal_count_string> on <$bodyShort>.
 (flirt)Oh, <Commander>, I found <$signal_count_string> on <$bodyShort>. But honestly, the most exciting discovery here is you.
-(flirt)You know, <Commander>, <$bodyShort> might be fascinating with its <$signal_count_string>, but it doesn’t stand a chance against your charm.
 (profanity)FFS... I mean FSS shows <$signal_count_string> on <$bodyShort>.
-(profanity)No fucking way, <$bodyShort> is rocking <$signal_count_string>. Wanna poke it with a probe?
+(profanity)No fucking way, <$bodyShort> is rocking <$signal_count_string>.
 
 
 @SystemIsOneJumpAway
@@ -313,7 +309,7 @@ Another system unlocked, <Commander>. Every discovery brings us closer to unders
 <Commander>, a fresh system! Let’s make sure we don’t break anything important this time.
 Congratulations, <Commander>. We’ve found another system to add to our growing collection of places with no Wi-Fi.
 New system discovered <Commander>. Please don’t name it something embarrassing.
-Hey we’ve hit the cosmic jackpot! Okay, maybe not jackpot, but it’s shiny and new system.
+Hey we’ve hit the cosmic jackpot! Okay, maybe not jackpot, but it’s a shiny and new system.
 New system discovered, <Commander>. Time to ruin its pristine reputation by showing up!
 (allbusiness)New System discovery confirmed, <Commander>.
 (allbusiness)New System discovered. No anomalies detected so far, but let's remain vigilant, <Commander>.
