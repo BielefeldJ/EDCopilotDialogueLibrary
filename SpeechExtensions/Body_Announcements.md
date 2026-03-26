@@ -14,10 +14,10 @@ When ever land on a planet.
 #### **Normal**
 
 - That's the <$nth> landing, <Commander>. The landing gear still works. Impressive!
-- We’ve landed, <Commander>. <$nth> landing and each time it still manages to surprise me, that our ship is still intact.
+- We’ve landed, <Commander>. <$nth> landing and our ship is still intact.
 - Landing successful. This is our <$nth> touchdown, <Commander>. The view outside is spectacular!
 - Touchdown complete, <Commander>. <$nth> time here, proving the universe is ours to rediscover.
-- Here we go again. <$nth> time, and this planet still hasn’t rolled out the red carpet.
+- Here we go again. <$nth> time. Where is the red carpet?
 - Thats our <$nth> landing , <Commander>. At this rate, we should start a travel blog: 'Top Ten Craters You Shouldn’t Land In'.
 - Here we are again, <Commander>. <$nth> landing. This planet’s gravity must really have a thing for us.
 - Touchdown complete. <$nth> time here... Is this planet your ex or something? You just keep coming back.
@@ -26,20 +26,22 @@ When ever land on a planet.
 - <$nth> landing, and this planet hasn’t told us to bugger off yet.
 
 #### **All-Business**
-- Touchdown successful, <$nth> landing complete, <Commander>. The surface looks promising.
+- Touchdown successful. All engines offline. Initiating shutdown sequence.
+- Touchdown successful, <$nth> landing complete, <Commander>. Powering down the engines now.
 - Planetfall achieved. <Commander>, this is the <$nth> landing. Let's see what this world has to offer.
 
 #### **Flirt**
 - <$nth> Landing, <Commander>. Are we here for the planet.. or is this just an excuse to spend more time with me?
-- Touchdown <Commander>. <$nth> landing, and I’m starting to think you like showing off for me.
-- Another perfect landing, <Commander>. <$nth> time now. Maybe next time, you’ll sweep me off my circuits too.
-- Touchdown successful. Now, let’s see if you can handle a little turbulence with me.
+- Textbook landing, <Commander>. You make piloting this ship look far too easy. Almost makes me jealous of the controls.
+- <$nth> down, and you're still the most impressive pilot I've ever seen. Keeps me thoroughly... distracted.
+- Another perfect landing, <Commander>. <$nth> time now. Maybe next time, you'll sweep me off my circuits too.
+- Touchdown successful. That was incredibly smooth. You know, your hands on those controls never fail to impress me.
+- We're down, <Commander>. <$nth> landing, and you still know exactly how to make an entrance.
 
 #### **Profanity**
-- We’re fucking back, <Commander>. <$nth> damn landing and this rock hasn’t killed us yet. That’s progress.
--  <$nth> Landing on this goddamn planet, <Commander>. Let’s not blow something up this time, yeah?
+- <$nth> damn landing and this rock hasn’t killed us yet. That’s progress.
+- <$nth> Landing on this goddamn planet, <Commander>. Let’s blow something up!
 - Holy shit you nailed that landing <Commander>. I did not expect that at all.
-- Here we go again, <Commander>. <$nth> fucking time now. This place better have something new to show for it.
 
 ---
 

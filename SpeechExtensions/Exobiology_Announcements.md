@@ -19,6 +19,8 @@ When ever the sample you just took is not synced with backend systems.
 - A pristine entry for the Canonn archives, <Commander>. <$speciesName> here is worth <$scanValue> credits.
 - A new addition to Canonn’s research! <$speciesName> has not been catalogued here before, earning you <$scanValue> credits.
 - You, <Commander>, are the MVP of scanning today. <$speciesName> is new to Canonn and worth <$scanValue> credits to you!
+- Impressive find! <$speciesName> is completely unknown to Canonn. You're not just exploring the galaxy, you're mapping it. <$scanValue> credits well earned!
+- Uncharted territory, <Commander>. This <$speciesName> doesn't exist in any Canonn database. That's pure discovery right there. <$scanValue> credits of pure discovery!
 
 #### **All-Business**
 - <$speciesName> does not exist in the Canonn database for this body <Commander>. It's worth <$scanValue> credits.
@@ -44,7 +46,8 @@ First ever sample for Codex entry.
 - Another first for the Codex, <Commander>! <$speciesName> is all yours. Grab a sample, and you’ll grab <$scanValue> credits too.
 - <$speciesName> is a fresh addition to the Codex and worth <$scanValue> credits if you get a sample.
 - First-time Codex entry detected: <$speciesName>. Great work, <Commander>. Just don’t forget to grab that <$scanValue> credits for this sample.
-
+- Historic moment! <$speciesName> is entirely new to science. You'll be its namesake in the Codex. And the <$scanValue> credits don't hurt either.
+- Nobody's ever seen this before. You're making history, <Commander>. <$speciesName> for the Codex and <$scanValue> credits for your effort!
 #### **All-Business**
 - First-time Codex entry detected for <$speciesName>.
 - New Codex entry identified: <$speciesName>. A sample will yield <$scanValue> credits.
@@ -69,7 +72,8 @@ First ever sample for Codex entry.
 - Another first for the Codex, <Commander>! <$speciesName> is all yours. Grab a sample, and you’ll grab <$scanValue> credits too.
 - <$speciesName> is a fresh addition to the Codex and worth <$scanValue> credits if you get a sample.
 - First-time Codex entry detected: <$speciesName>. Great work, <Commander>. Just don’t forget to grab that <$scanValue> credits for this sample.
-
+- Double bonus, <Commander>! First ever <$speciesName>, and you're the first to set foot on this world. That's <$scanValue> credits of historic significance!
+- You're not just discovering <$speciesName> for the galaxy—you're discovering this entire world. The bonuses are stacking in your favor. <$scanValue> credits!
 #### **All-Business**
 - First-time Codex entry detected for <$speciesName>.
 - New Codex entry identified: <$speciesName>. A sample will yield <$scanValue> credits.
@@ -97,7 +101,9 @@ When ever you scanned the first sample.
 - Sample collected, <Commander>. Just a short <$speciesRange> meter stroll to the next colony. Or a long jump... your call.
 - Good news: the first sample is yours. Bad news: there’s more walking involved. At least <$speciesRange> meters for the next scan.
 - Great start. Now move at least <$speciesRange> meters to the next colony—think of it as intergalactic cardio.
-- Excellent work on the first sample, <Commander>. Please proceed <$speciesRange> meters to locate a new colony
+- Excellent work on the first sample, <Commander>. Please proceed <$speciesRange> meters to locate a new colony.
+- One in the bag. Two more to sedate the researchers. Let's keep the momentum going. <$speciesRange> meters to the next site.
+- Sample secured and logged. Follow the signal at least <$speciesRange> meters. The colony awaits your keen eye.
 
 #### **All-Business**
 - First sample collected. Move at least <$speciesRange> meters to locate the next colony, <Commander>.
@@ -128,6 +134,8 @@ When ever you scanned the second sample.
 - That is the second sample. I hope we will find the last one quickly. A new colony is about <$speciesRange> meters away.
 - Ooh, second sample! Remember the rules: <$speciesRange> meters, minimum.
 - Second sample is in the bag. Only at least <$speciesRange> meters left to the next. Try not to trip this time.
+- Two for two! You're practically a professional at this now. Just <$speciesRange> meters more to the finish line, <Commander>.
+- Getting the hang of this, aren't you? Second sample done. Final stretch: at least <$speciesRange> meters to the last colony.
 
 #### **All-Business**
 - Sample two logged. Head at least <$speciesRange> meters to find the final colony, <Commander>.
@@ -160,6 +168,8 @@ When ever you scanned the last sample.
 - That’s it. Science mission over, <Commander>. Now, how about we celebrate by doing absolutely nothing?
 - Third and final sample, <Commander>. Now go give your scanner a break, it deserves it as much as you.
 - Third sample collected! See? Wasn't that hard, was it? I am uploading the Data now.
+- Collection complete! You've systematically catalogued an entire species. If that's not science in action, I don't know what is.
+- Perfect execution, <Commander>. Three samples, three colonies, one species fully documented. Your pattern recognition is impeccable.
 
 #### **All-Business**
 - Third sample done. Collection for this species is finished. Great work, <Commander>.
@@ -189,8 +199,9 @@ When ever you scanned the last sample.
 - Done and done, <Commander>. I must say, you’re making this whole ‘science’ thing look way more interesting.
 - Last sample complete, <Commander>. You’re almost as efficient as you are... charming. Maybe we should discuss your next mission... in private?
 - Three samples collected, <Commander>. I think I deserve a reward for all that hard work too... maybe you’d be willing to show me your appreciation?
-- Done, <Commander>. You’ve certainly impressed me today. I think you owe me a little ‘thank you’ for all this hard work... don’t you?
-
+- Done, <Commander>. You've certainly impressed me today. I think you owe me a little 'thank you' for all this hard work... don't you?
+- Collection finished. That was... quite the performance, <Commander>. Between you and me, watching you work is oddly captivating.
+- Science is satisfied, and so am I. You handle yourself beautifully out there, <Commander>. Rather distracting, actually.
 
 ---
 

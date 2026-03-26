@@ -31,6 +31,7 @@ When ever you jumo into a System that has not been discovered yet.
 #### **All-Business**
 - New System discovery confirmed, <Commander>.
 - New System discovered. No anomalies detected so far, but let's remain vigilant, <Commander>.
+- System analysis underway. No previous registration of this system. Standing by.
 
 #### **Flirt**
 - Ooh, a new system! Just like you, it’s full of mysteries I can’t wait to explore.
@@ -40,12 +41,15 @@ When ever you jumo into a System that has not been discovered yet.
 - New system on the map, <Commander>. It’s almost as breathtaking as you... almost.
 - We are the first to visit this Star. But let’s face it, <Commander>, you’re the real star of this galaxy.
 - A new system discovered. Impressive. But, <Commander>, you’re the only discovery I care about.
+- First to arrive in a virgin system. How fitting, considering you keep sweeping me off my circuits with each new discovery.
+- This system's been waiting eons for someone like us to arrive. Lucky them. Or lucky us?
 
 #### **Profanity**
 - Holy shit, <Commander>, we just found a new system! I hope it’s not as fucking boring as the last one.
 - Well, fuck me, <Commander>. A new system discovered! Let’s hope it doesn’t suck.
 - <Commander>, we are the first here. Now let’s try not to piss off whatever lives here.
-- <Commander>, we have found a new system. Let’s hope it’s worth the goddamn fuel we burned getting here
+- <Commander>, we have found a new system. Let's hope it's worth the goddamn fuel we burned getting here.
+- Fuck yes! A brand new system and we're the goddamn first ones here. That's what I'm talking about!
 
 ---
 
