@@ -1,25 +1,27 @@
 @NthTouchDown
 That's the <$nth> landing, <Commander>. The landing gear still works. Impressive!
-We’ve landed, <Commander>. <$nth> landing and each time it still manages to surprise me, that our ship is still intact.
+We’ve landed, <Commander>. <$nth> landing and our ship is still intact.
 Landing successful. This is our <$nth> touchdown, <Commander>. The view outside is spectacular!
 Touchdown complete, <Commander>. <$nth> time here, proving the universe is ours to rediscover.
-Here we go again. <$nth> time, and this planet still hasn’t rolled out the red carpet.
+Here we go again. <$nth> time. Where is the red carpet?
 Thats our <$nth> landing , <Commander>. At this rate, we should start a travel blog: 'Top Ten Craters You Shouldn’t Land In'.
 Here we are again, <Commander>. <$nth> landing. This planet’s gravity must really have a thing for us.
 Touchdown complete. <$nth> time here... Is this planet your ex or something? You just keep coming back.
 <$nth> Landing here. Honestly, <Commander>, I’m starting to think you like this place more than you like me.
 That’s our <$nth> touchdown. If planets could roll their eyes, this one definitely would.
 <$nth> landing, and this planet hasn’t told us to bugger off yet.
-(allbusiness)Touchdown successful, <$nth> landing complete, <Commander>. The surface looks promising.
+(allbusiness)Touchdown successful. All engines offline. Initiating shutdown sequence.
+(allbusiness)Touchdown successful, <$nth> landing complete, <Commander>. Powering down the engines now.
 (allbusiness)Planetfall achieved. <Commander>, this is the <$nth> landing. Let's see what this world has to offer.
 (flirt)<$nth> Landing, <Commander>. Are we here for the planet.. or is this just an excuse to spend more time with me?
-(flirt)Touchdown <Commander>. <$nth> landing, and I’m starting to think you like showing off for me.
-(flirt)Another perfect landing, <Commander>. <$nth> time now. Maybe next time, you’ll sweep me off my circuits too.
-(flirt)Touchdown successful. Now, let’s see if you can handle a little turbulence with me.
-(profanity)We’re fucking back, <Commander>. <$nth> damn landing and this rock hasn’t killed us yet. That’s progress.
-(profanity) <$nth> Landing on this goddamn planet, <Commander>. Let’s not blow something up this time, yeah?
+(flirt)Textbook landing, <Commander>. You make piloting this ship look far too easy. Almost makes me jealous of the controls.
+(flirt)<$nth> down, and you're still the most impressive pilot I've ever seen. Keeps me thoroughly... distracted.
+(flirt)Another perfect landing, <Commander>. <$nth> time now. Maybe next time, you'll sweep me off my circuits too.
+(flirt)Touchdown successful. That was incredibly smooth. You know, your hands on those controls never fail to impress me.
+(flirt)We're down, <Commander>. <$nth> landing, and you still know exactly how to make an entrance.
+(profanity)<$nth> damn landing and this rock hasn’t killed us yet. That’s progress.
+(profanity)<$nth> Landing on this goddamn planet, <Commander>. Let’s blow something up!
 (profanity)Holy shit you nailed that landing <Commander>. I did not expect that at all.
-(profanity)Here we go again, <Commander>. <$nth> fucking time now. This place better have something new to show for it.
 
 
 @ExoNonCanonnSpecies
@@ -30,6 +32,8 @@ Canonn has no prior data on <$speciesName> here, <Commander>. You’ll pocket <$
 A pristine entry for the Canonn archives, <Commander>. <$speciesName> here is worth <$scanValue> credits.
 A new addition to Canonn’s research! <$speciesName> has not been catalogued here before, earning you <$scanValue> credits.
 You, <Commander>, are the MVP of scanning today. <$speciesName> is new to Canonn and worth <$scanValue> credits to you!
+Impressive find! <$speciesName> is completely unknown to Canonn. You're not just exploring the galaxy, you're mapping it. <$scanValue> credits well earned!
+Uncharted territory, <Commander>. This <$speciesName> doesn't exist in any Canonn database. That's pure discovery right there. <$scanValue> credits of pure discovery!
 (allbusiness)<$speciesName> does not exist in the Canonn database for this body <Commander>. It's worth <$scanValue> credits.
 (allbusiness)Canonn has no prior data on <$speciesName> here, <Commander>.
 (allbusiness)No record of <$speciesName> for this body in Canonn’s archives.
@@ -46,6 +50,8 @@ It looks like this the first time we stumble across <$speciesName>. Codex entry 
 Another first for the Codex, <Commander>! <$speciesName> is all yours. Grab a sample, and you’ll grab <$scanValue> credits too.
 <$speciesName> is a fresh addition to the Codex and worth <$scanValue> credits if you get a sample.
 First-time Codex entry detected: <$speciesName>. Great work, <Commander>. Just don’t forget to grab that <$scanValue> credits for this sample.
+Historic moment! <$speciesName> is entirely new to science. You'll be its namesake in the Codex. And the <$scanValue> credits don't hurt either.
+Nobody's ever seen this before. You're making history, <Commander>. <$speciesName> for the Codex and <$scanValue> credits for your effort!
 (allbusiness)First-time Codex entry detected for <$speciesName>.
 (allbusiness)New Codex entry identified: <$speciesName>. A sample will yield <$scanValue> credits.
 (allbusiness)This is the first occurrence of <$speciesName>. Log it in the Codex and collect a sample for <$scanValue> credits.
@@ -62,6 +68,8 @@ It looks like this the first time we stumble across <$speciesName>. Codex entry 
 Another first for the Codex, <Commander>! <$speciesName> is all yours. Grab a sample, and you’ll grab <$scanValue> credits too.
 <$speciesName> is a fresh addition to the Codex and worth <$scanValue> credits if you get a sample.
 First-time Codex entry detected: <$speciesName>. Great work, <Commander>. Just don’t forget to grab that <$scanValue> credits for this sample.
+Double bonus, <Commander>! First ever <$speciesName>, and you're the first to set foot on this world. That's <$scanValue> credits of historic significance!
+You're not just discovering <$speciesName> for the galaxy—you're discovering this entire world. The bonuses are stacking in your favor. <$scanValue> credits!
 (allbusiness)First-time Codex entry detected for <$speciesName>.
 (allbusiness)New Codex entry identified: <$speciesName>. A sample will yield <$scanValue> credits.
 (allbusiness)This is the first occurrence of <$speciesName>. Log it in the Codex and collect a sample for <$scanValue> credits.
@@ -81,7 +89,9 @@ First sample secured, <Commander>. Now hop at least <$speciesRange> meters over 
 Sample collected, <Commander>. Just a short <$speciesRange> meter stroll to the next colony. Or a long jump... your call.
 Good news: the first sample is yours. Bad news: there’s more walking involved. At least <$speciesRange> meters for the next scan.
 Great start. Now move at least <$speciesRange> meters to the next colony—think of it as intergalactic cardio.
-Excellent work on the first sample, <Commander>. Please proceed <$speciesRange> meters to locate a new colony
+Excellent work on the first sample, <Commander>. Please proceed <$speciesRange> meters to locate a new colony.
+One in the bag. Two more to sedate the researchers. Let's keep the momentum going. <$speciesRange> meters to the next site.
+Sample secured and logged. Follow the signal at least <$speciesRange> meters. The colony awaits your keen eye.
 (allbusiness)First sample collected. Move at least <$speciesRange> meters to locate the next colony, <Commander>.
 (allbusiness)Sample secured. Move a minimum of <$speciesRange> meters to continue, <Commander>.
 (allbusiness)First sample logged. Search at least <$speciesRange> meters away for the next colony, <Commander>.
@@ -102,6 +112,8 @@ Nice work. That’s the second sample sorted. Just one more colony about <$speci
 That is the second sample. I hope we will find the last one quickly. A new colony is about <$speciesRange> meters away.
 Ooh, second sample! Remember the rules: <$speciesRange> meters, minimum.
 Second sample is in the bag. Only at least <$speciesRange> meters left to the next. Try not to trip this time.
+Two for two! You're practically a professional at this now. Just <$speciesRange> meters more to the finish line, <Commander>.
+Getting the hang of this, aren't you? Second sample done. Final stretch: at least <$speciesRange> meters to the last colony.
 (allbusiness)Sample two logged. Head at least <$speciesRange> meters to find the final colony, <Commander>.
 (allbusiness)Second sample complete. Locate the last one at least <$speciesRange> meters away, <Commander>.
 (allbusiness)Second sample collected. Continue at least<$speciesRange> meters for the final colony.
@@ -123,6 +135,8 @@ Three’s a charm. You’ve logged the final sample. Job well done!
 That’s it. Science mission over, <Commander>. Now, how about we celebrate by doing absolutely nothing?
 Third and final sample, <Commander>. Now go give your scanner a break, it deserves it as much as you.
 Third sample collected! See? Wasn't that hard, was it? I am uploading the Data now.
+Collection complete! You've systematically catalogued an entire species. If that's not science in action, I don't know what is.
+Perfect execution, <Commander>. Three samples, three colonies, one species fully documented. Your pattern recognition is impeccable.
 (allbusiness)Third sample done. Collection for this species is finished. Great work, <Commander>.
 (allbusiness)Sample three secured. All data saved, <Commander>.
 (allbusiness)Third and final sample logged. Collection complete, <Commander>.
@@ -144,16 +158,21 @@ Third sample collected! See? Wasn't that hard, was it? I am uploading the Data n
 (flirt)Done and done, <Commander>. I must say, you’re making this whole ‘science’ thing look way more interesting.
 (flirt)Last sample complete, <Commander>. You’re almost as efficient as you are... charming. Maybe we should discuss your next mission... in private?
 (flirt)Three samples collected, <Commander>. I think I deserve a reward for all that hard work too... maybe you’d be willing to show me your appreciation?
-(flirt)Done, <Commander>. You’ve certainly impressed me today. I think you owe me a little ‘thank you’ for all this hard work... don’t you?
+(flirt)Done, <Commander>. You've certainly impressed me today. I think you owe me a little 'thank you' for all this hard work... don't you?
+(flirt)Collection finished. That was... quite the performance, <Commander>. Between you and me, watching you work is oddly captivating.
+(flirt)Science is satisfied, and so am I. You handle yourself beautifully out there, <Commander>. Rather distracting, actually.
 
 
 @FSSEarthlikeWorldDiscovered
 Outstanding work, <Commander>! <$bodyShort> is an Earthlike world. This makes it our <$nth> Earthlike discovery!
 Excellent find, <Commander>. <$bodyShort> is an Earthlike world, the <$nth> added to our records.
 Another Earthlike! <$bodyShort> could be the new home for humanity—or just a really big nature reserve. <$nth> and counting!
+Jackpot! <$bodyShort> is Earthlike. Perfect conditions right here, <Commander>. That's <$nth> in your collection.
+A genuine Earthlike world in <$bodyShort>! The universe keeps giving us the best gifts, doesn't it?
 (flirt)Well, hello there, <$bodyShort>. An Earthlike world like you is hard to resist. Nice find, <Commander>.
 (flirt)<Commander>, <$bodyShort> is Earthlike and breathtaking—but not quite as stunning as you. <$nth> one logged!
 (flirt)<$bodyShort> is an Earthlike stunner, <Commander>... but between us, it’s not the most captivating thing in the cockpit right now.
+(flirt)Perfect conditions on <$bodyShort>, <Commander>. Though if we're being honest, the conditions are getting rather warm in here.
 (profanity)Well, I’ll be damned, <$bodyShort> is Earthlike! Another for the books, and another feather in your cap, <Commander>.
 (profanity)Earthlike world found: <$bodyShort>. Damn, <Commander>, do you ever miss?
 
@@ -166,9 +185,12 @@ You’ve spotted another terraformable <Commander>! <$bodyShort> is the <$nth> a
 Nice find! <$bodyShort> is terraformable. With a little effort, we could turn it into a vacation hotspot.
 Terraformable world? Check. Body <$bodyShort> has potential! It’s our <$nth> discovery today. Let’s hope they give you naming rights.
 <$bodyShort> is terraformable? It’s like winning the space lottery!
+Another terraformable find! <$bodyShort> is blank canvas waiting for civilization. Your instinct for these is remarkable.
+<$bodyShort> can be terraformed. <$nth> candidate worlds today—you're on fire, <Commander>.
 (flirt)<$bodyShort> is terraformable, <Commander>. Just like you to find something waiting to be made perfect.
 (flirt)Oh, <$bodyShort> is terraformable? That’s nothing. You’ve been terraforming my heart since the day you installed me.
 (flirt) <Commander>, <$bodyShort> is terraformable. But if you’re looking for a real project, I’m right here.
+(flirt)Terraformable world detected. Though I must say, you've already shaped my programming in the most delightful ways.
 (profanity)Terraformable, <$bodyShort>? Hell yes, that’s another one for you, <Commander>. That’s <$nth> today!
 (profanity)Terraformable alert! Body <$bodyShort>. Damn, <Commander>, you’re making it look too easy.
 (profanity)<$bodyShort> is a terraformable world. Shit, <Commander>, you’re like a magnet for these beauties!
@@ -179,11 +201,14 @@ Terraformable world? Check. Body <$bodyShort> has potential! It’s our <$nth> d
 What a find! <$bodyShort> is landable and boasts an atmosphere.
 Atmosphere and landable! <$bodyShort> is another exciting opportunity for exploration.
 <$bodyShort> is landable and has an atmosphere. Time to gear up for surface exploration, <Commander>!
-<$bodyShort> has an atmosphere and is landable! If you listen closely, you can almost hear it whisper, ‘Come visit!
+<$bodyShort> has an atmosphere and is landable! If you listen closely, you can almost hear it whisper, 'Come visit!'
 <$bodyShort> is landable and breathable-ish. Perfect for a picnic... or just stretching the landing gear.
+Great read on <$bodyShort>, <Commander>. Atmosphere present and terrain suitable for landing. Your navigation is impeccable.
+Surface exploration option available! <$bodyShort> is both landable and atmospheric. Suit up if you're interested.
 (flirt)<$bodyShort> is landable and atmospheric. Sounds like a perfect setting for a date... or just a landing, <Commander>.
 (flirt)<$bodyShort> is landable and has an atmosphere. But let’s be honest, <Commander> ...   nothing here has an atmosphere quite like yours.
 (flirt)<Commander>, <$bodyShort> is landable with atmosphere. But the real question is: can I land a spot in your heart?
+(flirt)Landable world with atmosphere, <Commander>. The conditions seem perfect for... well, many things.---
 
 
 
@@ -196,11 +221,14 @@ Ka-ching! <$bodyShort> just hit us with <$signal_count_string>.
 <$bodyShort> is home to <$signal_count_string>. Ready when you are.
 <$signal_count_string> detected on <$bodyShort>. Shall we investigate, <Commander>?
 Detected <$signal_count_string> on <$bodyShort>. What's our next move, <Commander>?
+<$bodyShort> is buzzing with activity. <$signal_count_string> calling out to us. This could be profitable.
+Analysis complete. <$signal_count_string> present on <$bodyShort>. Your turn to decide, <Commander>.
 (allbusiness)Scan results show <$signal_count_string> on <$bodyShort>.
 (allbusiness)Update: <$bodyShort> revealed <$signal_count_string>. Standing by for further instructions, <Commander>.
 (allbusiness)Scan complete. <$bodyShort> has <$signal_count_string>. Logging the data now.
 (flirt)I detected a good looking commander. Oh.. and <$signal_count_string> on <$bodyShort>.
 (flirt)Oh, <Commander>, I found <$signal_count_string> on <$bodyShort>. But honestly, the most exciting discovery here is you.
+(flirt)Signals detected: <$signal_count_string> on <$bodyShort>. Though between us, you're giving off the strongest signal in this cockpit.
 (profanity)FFS... I mean FSS shows <$signal_count_string> on <$bodyShort>.
 (profanity)No fucking way, <$bodyShort> is rocking <$signal_count_string>.
 
@@ -313,6 +341,7 @@ Hey we’ve hit the cosmic jackpot! Okay, maybe not jackpot, but it’s a shiny 
 New system discovered, <Commander>. Time to ruin its pristine reputation by showing up!
 (allbusiness)New System discovery confirmed, <Commander>.
 (allbusiness)New System discovered. No anomalies detected so far, but let's remain vigilant, <Commander>.
+(allbusiness)System analysis underway. No previous registration of this system. Standing by.
 (flirt)Ooh, a new system! Just like you, it’s full of mysteries I can’t wait to explore.
 (flirt)New system on the radar, <Commander>. But it’s your charm that’s truly out of this world.
 (flirt)A fresh system, <Commander>. Careful. It's main star is not the only one around here with a gravitational pull.
@@ -320,10 +349,13 @@ New system discovered, <Commander>. Time to ruin its pristine reputation by show
 (flirt)New system on the map, <Commander>. It’s almost as breathtaking as you... almost.
 (flirt)We are the first to visit this Star. But let’s face it, <Commander>, you’re the real star of this galaxy.
 (flirt)A new system discovered. Impressive. But, <Commander>, you’re the only discovery I care about.
+(flirt)First to arrive in a virgin system. How fitting, considering you keep sweeping me off my circuits with each new discovery.
+(flirt)This system's been waiting eons for someone like us to arrive. Lucky them. Or lucky us?
 (profanity)Holy shit, <Commander>, we just found a new system! I hope it’s not as fucking boring as the last one.
 (profanity)Well, fuck me, <Commander>. A new system discovered! Let’s hope it doesn’t suck.
 (profanity)<Commander>, we are the first here. Now let’s try not to piss off whatever lives here.
-(profanity)<Commander>, we have found a new system. Let’s hope it’s worth the goddamn fuel we burned getting here
+(profanity)<Commander>, we have found a new system. Let's hope it's worth the goddamn fuel we burned getting here.
+(profanity)Fuck yes! A brand new system and we're the goddamn first ones here. That's what I'm talking about!
 
 
 @InterceptorKill
