@@ -61,10 +61,10 @@ First ever sample for Codex entry.
 ### Phrases:
 
 #### **Normal**
-- Well done, <Commander>! This appears to be the first discovery of <$speciesName>. It’s a valuable addition to the Codex, with the first foodfall it is worth <$scanValue> credits if you secure a sample.
-- Congratulations, <Commander>. It seems we’ve encountered <$speciesName> for the first time. An entry for the Codex and a potential <$scanValue> credits because of the first foodfall.
-- We’ve never logged <$speciesName> before. Add it to the Codex and claim <$scanValue> credits, with first foodfall, for a sample.
-- <$speciesName> is a first-time find. Record it in the Codex and collect that, with first foodfall bonus, <$scanValue> credits sample reward.
+- Well done, <Commander>! This appears to be the first discovery of <$speciesName>. It’s a valuable addition to the Codex, with the first footfall it is worth <$scanValue> credits if you secure a sample.
+- Congratulations, <Commander>. It seems we’ve encountered <$speciesName> for the first time. An entry for the Codex and a potential <$scanValue> credits because of the first footfall.
+- We’ve never logged <$speciesName> before. Add it to the Codex and claim <$scanValue> credits, with first footfall, for a sample.
+- <$speciesName> is a first-time find. Record it in the Codex and collect that, with first footfall bonus, <$scanValue> credits sample reward.
 - It looks like this the first time we stumble across <$speciesName>. Codex entry secured. Now go bag that <$scanValue> credits sample!
 - Another first for the Codex, <Commander>! <$speciesName> is all yours. Grab a sample, and you’ll grab <$scanValue> credits too.
 - <$speciesName> is a fresh addition to the Codex and worth <$scanValue> credits if you get a sample.
